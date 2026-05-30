@@ -1,31 +1,57 @@
 # LoadMaster
 
-Container Loading & Bundle Optimization Platform
+## Production, Packaging & Container Loading Platform
 
-LoadMaster is a logistics platform designed for manufacturers and distributors that need to optimize bundle allocation, container utilization and shipment planning.
+LoadMaster is an industrial software platform designed for manufacturers, logistics teams and export departments.
 
----
-
-## Key Features
-
-### Container Optimization
-Calculate optimal bundle placement and container utilization.
-
-### Bundle Management
-Manage production bundles and loading constraints.
-
-### Excel Import
-Import production and shipment data directly from Excel files.
-
-### Shipment Planning
-Plan containers, trucks and deliveries.
-
-### Loading Simulation
-Preview loading scenarios before shipment.
+It automates packaging, bundle generation, shipment planning and container loading optimization while reducing manual calculations and planning errors.
 
 ---
 
-## Built With
+## Key Capabilities
+
+- Production Planning
+- Bundle Optimization
+- Container Loading
+- Shipment Planning
+- Automated Label Generation
+- Rule-Based Validation Engine
+- Excel Integration
+- Export Documentation Support
+
+---
+
+## Workflow Selection
+
+![Workflow Selection](images/1.png)
+
+---
+
+## Container Planning
+
+Optimize bundle allocation across containers and maximize loading efficiency.
+
+![Container Planning](images/2.png)
+
+---
+
+## Bundle Optimization
+
+Automatically generate production bundles according to predefined loading and packaging rules.
+
+![Bundle Optimization](images/3.png)
+
+---
+
+## Rule Validation Engine
+
+Built-in validation engine verifies packaging rules and loading sequences through automated dry runs.
+
+![Rule Engine](images/4.png)
+
+---
+
+## Technology Stack
 
 - PHP
 - MySQL
@@ -35,18 +61,18 @@ Preview loading scenarios before shipment.
 
 ---
 
-## Use Cases
+## Industry Use Cases
 
-- Sandwich Panel Manufacturers
-- Steel Service Centers
-- Industrial Production
+- Manufacturing
 - Logistics Operations
 - Export Departments
+- Industrial Production
+- Building Materials Industry
 
 ---
 
 ## Status
 
-Active commercial project.
+Commercial project currently used in real production environments.
 
-Demo available on request.
+Custom implementations available.
